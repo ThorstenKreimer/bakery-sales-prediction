@@ -1,10 +1,4 @@
-﻿Tabelle: 45412-0025
-Ankünfte, Übernachtungen in Beherbergungsbetrieben:;;;
-Bundesländer, Monate;;;
-Monatserhebung im Tourismus;;;
-;;Schleswig-Holstein;
-;;Ankünfte;Übernachtungen
-;;Anzahl;Anzahl
+﻿Jahr;Monate;Ankuenfte;Uebernachtungen
 2011;Januar;188760;648143
 ;Februar;228729;712546
 ;März;314310;1024077
@@ -125,13 +119,3 @@ Monatserhebung im Tourismus;;;
 ;Oktober;736892;3419058
 ;November;76148;461976
 ;Dezember;44298;311727
-__________
-"Ab 2011:
-Ab dem Berichtsjahr 2011 liegt der Monatserhebung im
-Tourismus eine neue Abschneidegrenze für die
-Auskunftspflicht zugrunde. Bei den Beherbergungsbetrieben
-wurde die Mindestanzahl der Schlafgelegenheiten von
-9 auf 10 bzw. bei den Campingplätzen von 3 auf 10
-Stellplätze angehoben."
-© Statistisches Bundesamt (Destatis), 2024
-Stand: 28.11.2024 / 13:18:33
