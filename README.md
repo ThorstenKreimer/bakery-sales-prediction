@@ -10,19 +10,19 @@ This project focuses on sales forecasting for a bakery branch, utilizing histori
 
 ### Task Type
 
-Regression
+Regression and Neural Net
 
 ### Results Summary
 
--   **Best Model:** [Name of the best-performing model]
+-   **Best Model:** Sequential Model with Adam Optimzer
 -   **Evaluation Metric:** MAPE
 -   **Result by Category** (Identifier):
-    -   **Bread** (1): 28%
-    -   **Rolls** (2): 24%
-    -   **Croissant** (3): 28%
-    -   **Confectionery** (4): 29%
-    -   **Cake** (5): 23%
-    -   **Seasonal Bread** (6): 58%
+    -   **Bread** (1): 21%
+    -   **Rolls** (2): 23%
+    -   **Croissant** (3): 25%
+    -   **Confectionery** (4): 27%
+    -   **Cake** (5): 20%
+    -   **Seasonal Bread** (6): 55%
 
 ## Documentation
 
